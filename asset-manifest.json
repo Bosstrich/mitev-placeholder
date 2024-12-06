@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mitev-placeholder/static/css/main.06bc5f45.css",
+    "main.js": "/mitev-placeholder/static/js/main.d66efbfe.js",
+    "static/media/laptop.jpg": "/mitev-placeholder/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/rosca.otf": "/mitev-placeholder/static/media/rosca.071d18b186b228ca8729.otf",
+    "static/media/single.png": "/mitev-placeholder/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/mitev-placeholder/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/mitev-placeholder/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/mitev-placeholder/index.html",
+    "main.06bc5f45.css.map": "/mitev-placeholder/static/css/main.06bc5f45.css.map",
+    "main.d66efbfe.js.map": "/mitev-placeholder/static/js/main.d66efbfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06bc5f45.css",
+    "static/js/main.d66efbfe.js"
+  ]
+}
